@@ -1,4 +1,4 @@
-package com.PicPaySimplified.PicPaySimplified;
+package com.PicPaySimplified;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

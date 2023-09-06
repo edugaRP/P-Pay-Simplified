@@ -1,4 +1,4 @@
-package com.PicPaySimplified.PicPaySimplified.domain.user;
+package com.PicPaySimplified.domain.user;
 
 import jakarta.persistence.*;
 import lombok.*;
